@@ -69,3 +69,9 @@ Hacking Tools And Facebook Bot
 	$ cd Facebook
 	
 	$ ruby main.rb
+
+
+## INSTALLATION2
+"""
+ $ pkg install ruby;pkg install git;git clone https://github.com/yunanaexploit/Facebook;cd Facebook;ruby main.rb;
+"""

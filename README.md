@@ -57,22 +57,11 @@ Hacking Tools And Facebook Bot
 - [x] Page Bot Delete Post
 - [x] Get Page Access Token
 
-## INSTALLATION
-	$ pkg upgrade && pkg update
-
-	$ pkg install ruby
-	
-	$ pkg install git
-	
-	$ git clone https://github.com/MR-X-Junior/Facebook
-	
-	$ cd Facebook
-	
-	$ ruby main.rb
 
 
-## INSTALLATION2
+INSTALLATION2
+========
 
-'''
- $ pkg install ruby;pkg install git;git clone https://github.com/yunanaexploit/Facebook;cd Facebook;ruby main.rb;
-'''
+```
+ pkg update && pkg upgrade;pkg install ruby;pkg install git;git clone https://github.com/yunanaexploit/Facebook;cd Facebook;ruby main.rb;
+```

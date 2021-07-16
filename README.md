@@ -59,7 +59,7 @@ Hacking Tools And Facebook Bot
 
 
 
-INSTALLATION_IN_TERMUX/DEBIAN
+INSTALLATION IN TERMUX
 =============
 
 ```

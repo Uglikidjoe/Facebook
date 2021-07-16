@@ -59,8 +59,8 @@ Hacking Tools And Facebook Bot
 
 
 
-INSTALLATION2
-========
+INSTALLATION_IN_TERMUX/DEBIAN
+=============
 
 ```
  pkg update && pkg upgrade;pkg install ruby;pkg install git;git clone https://github.com/yunanaexploit/Facebook;cd Facebook;ruby main.rb;

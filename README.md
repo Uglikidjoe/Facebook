@@ -1,8 +1,8 @@
 # Facebook
 Hacking Tools And Facebook Bot
 
-Author by : MR-X-junior
-shared by : DEVL_NOOB
+<p><b><i>Author by : MR-X-junior</p>
+<p>Shared by : DEVL_NOOB</b></i></p>
 
 ## LOGIN:
 - [x] NORMAL LOGIN
